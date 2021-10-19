@@ -2,7 +2,7 @@
 
 ### Sobre o projeto
 
--  To-Do List é o primeiro projeto construido durante a edicação de *5 projetos em 5 dias*, evento gratuito pela <a href="https://b7web.com.br/d5/?d=1"> B7WEB </a>. <br>
+-  To-Do List é o primeiro projeto construido durante a edição de *5 projetos em 5 dias*, evento gratuito pela <a href="https://b7web.com.br/d5/?d=1"> B7WEB </a>. <br>
 -  A aplicação é designada para organizar e anotar tarefas que precisam ser realizadas, algo simples e muito necessário.
 
 <br> <br>
