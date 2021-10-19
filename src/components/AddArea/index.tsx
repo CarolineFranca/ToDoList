@@ -34,6 +34,5 @@ export const AddArea = ({ onEnter }: Props) => {
 
     </C.Container>
 
-
   );
   }
